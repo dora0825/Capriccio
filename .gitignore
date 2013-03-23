@@ -1,0 +1,6 @@
+# IDE metadata. Don't track them!
+aptana/
+nbproject/
+
+# Configuration. Keep private, don't track!
+config/
