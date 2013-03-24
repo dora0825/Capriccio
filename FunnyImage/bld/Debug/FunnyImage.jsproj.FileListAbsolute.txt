@@ -1,0 +1,91 @@
+c:\users\v-dochen\documents\visual studio 2012\Projects\FunnyImage\FunnyImage\bin\Debug\resources.pri
+c:\users\v-dochen\documents\visual studio 2012\Projects\FunnyImage\FunnyImage\bin\Debug\AppxManifest.xml
+c:\users\v-dochen\documents\visual studio 2012\Projects\FunnyImage\FunnyImage\bin\Debug\FunnyImage.build.appxrecipe
+c:\users\v-dochen\documents\visual studio 2012\Projects\FunnyImage\FunnyImage\bld\Debug\priconfig.xml
+c:\users\v-dochen\documents\visual studio 2012\Projects\FunnyImage\FunnyImage\bld\Debug\layout.resfiles
+c:\users\v-dochen\documents\visual studio 2012\Projects\FunnyImage\FunnyImage\bld\Debug\resources.resfiles
+c:\users\v-dochen\documents\visual studio 2012\Projects\FunnyImage\FunnyImage\bld\Debug\pri.resfiles
+c:\users\v-dochen\documents\visual studio 2012\Projects\FunnyImage\FunnyImage\bld\Debug\LanguageQualifiers.txt
+c:\users\v-dochen\documents\visual studio 2012\Projects\FunnyImage\FunnyImage\bld\Debug\ProjectArchitectures.txt
+c:\users\v-dochen\documents\visual studio 2012\Projects\FunnyImage\FunnyImage\bld\Debug\priconfig.xml.intermediate
+c:\users\v-dochen\documents\visual studio 2012\Projects\FunnyImage\FunnyImage\bld\Debug\layout.resfiles.intermediate
+c:\users\v-dochen\documents\visual studio 2012\Projects\FunnyImage\FunnyImage\bld\Debug\resources.resfiles.intermediate
+c:\users\v-dochen\documents\visual studio 2012\Projects\FunnyImage\FunnyImage\bld\Debug\pri.resfiles.intermediate
+C:\Users\v-dochen\Desktop\FunnyImage 1\FunnyImage\FunnyImage\bin\Debug\resources.pri
+C:\Users\v-dochen\Desktop\FunnyImage 1\FunnyImage\FunnyImage\bin\Debug\AppxManifest.xml
+C:\Users\v-dochen\Desktop\FunnyImage 1\FunnyImage\FunnyImage\bin\Debug\FunnyImage.build.appxrecipe
+C:\Users\v-dochen\Desktop\FunnyImage 1\FunnyImage\FunnyImage\bld\Debug\priconfig.xml.intermediate
+C:\Users\v-dochen\Desktop\FunnyImage 1\FunnyImage\FunnyImage\bld\Debug\layout.resfiles.intermediate
+C:\Users\v-dochen\Desktop\FunnyImage 1\FunnyImage\FunnyImage\bld\Debug\resources.resfiles.intermediate
+C:\Users\v-dochen\Desktop\FunnyImage 1\FunnyImage\FunnyImage\bld\Debug\pri.resfiles.intermediate
+C:\Users\v-dochen\Desktop\FunnyImage 1\FunnyImage\FunnyImage\bld\Debug\priconfig.xml
+C:\Users\v-dochen\Desktop\FunnyImage 1\FunnyImage\FunnyImage\bld\Debug\layout.resfiles
+C:\Users\v-dochen\Desktop\FunnyImage 1\FunnyImage\FunnyImage\bld\Debug\resources.resfiles
+C:\Users\v-dochen\Desktop\FunnyImage 1\FunnyImage\FunnyImage\bld\Debug\pri.resfiles
+C:\Users\v-dochen\Desktop\FunnyImage 1\FunnyImage\FunnyImage\bld\Debug\LanguageQualifiers.txt
+C:\Users\v-dochen\Desktop\FunnyImage 1\FunnyImage\FunnyImage\bld\Debug\ProjectArchitectures.txt
+C:\Users\v-dochen\Desktop\FunnyImage 1\FunnyImage1208\FunnyImage\FunnyImage\bin\Debug\resources.pri
+C:\Users\v-dochen\Desktop\FunnyImage 1\FunnyImage1208\FunnyImage\FunnyImage\bin\Debug\AppxManifest.xml
+C:\Users\v-dochen\Desktop\FunnyImage 1\FunnyImage1208\FunnyImage\FunnyImage\bin\Debug\FunnyImage.build.appxrecipe
+C:\Users\v-dochen\Desktop\FunnyImage 1\FunnyImage1208\FunnyImage\FunnyImage\bld\Debug\priconfig.xml.intermediate
+C:\Users\v-dochen\Desktop\FunnyImage 1\FunnyImage1208\FunnyImage\FunnyImage\bld\Debug\layout.resfiles.intermediate
+C:\Users\v-dochen\Desktop\FunnyImage 1\FunnyImage1208\FunnyImage\FunnyImage\bld\Debug\resources.resfiles.intermediate
+C:\Users\v-dochen\Desktop\FunnyImage 1\FunnyImage1208\FunnyImage\FunnyImage\bld\Debug\pri.resfiles.intermediate
+C:\Users\v-dochen\Desktop\FunnyImage 1\FunnyImage1208\FunnyImage\FunnyImage\bld\Debug\priconfig.xml
+C:\Users\v-dochen\Desktop\FunnyImage 1\FunnyImage1208\FunnyImage\FunnyImage\bld\Debug\layout.resfiles
+C:\Users\v-dochen\Desktop\FunnyImage 1\FunnyImage1208\FunnyImage\FunnyImage\bld\Debug\resources.resfiles
+C:\Users\v-dochen\Desktop\FunnyImage 1\FunnyImage1208\FunnyImage\FunnyImage\bld\Debug\pri.resfiles
+C:\Users\v-dochen\Desktop\FunnyImage 1\FunnyImage1208\FunnyImage\FunnyImage\bld\Debug\LanguageQualifiers.txt
+C:\Users\v-dochen\Desktop\FunnyImage 1\FunnyImage1208\FunnyImage\FunnyImage\bld\Debug\ProjectArchitectures.txt
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1227\FunnyImage1208\FunnyImage\FunnyImage\bin\Debug\resources.pri
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1227\FunnyImage1208\FunnyImage\FunnyImage\bin\Debug\AppxManifest.xml
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1227\FunnyImage1208\FunnyImage\FunnyImage\bin\Debug\FunnyImage.build.appxrecipe
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1227\FunnyImage1208\FunnyImage\FunnyImage\bld\Debug\priconfig.xml.intermediate
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1227\FunnyImage1208\FunnyImage\FunnyImage\bld\Debug\layout.resfiles.intermediate
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1227\FunnyImage1208\FunnyImage\FunnyImage\bld\Debug\resources.resfiles.intermediate
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1227\FunnyImage1208\FunnyImage\FunnyImage\bld\Debug\pri.resfiles.intermediate
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1227\FunnyImage1208\FunnyImage\FunnyImage\bld\Debug\priconfig.xml
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1227\FunnyImage1208\FunnyImage\FunnyImage\bld\Debug\layout.resfiles
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1227\FunnyImage1208\FunnyImage\FunnyImage\bld\Debug\resources.resfiles
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1227\FunnyImage1208\FunnyImage\FunnyImage\bld\Debug\pri.resfiles
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1227\FunnyImage1208\FunnyImage\FunnyImage\bld\Debug\LanguageQualifiers.txt
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1227\FunnyImage1208\FunnyImage\FunnyImage\bld\Debug\ProjectArchitectures.txt
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1229\FunnyImage1227\FunnyImage1208\FunnyImage\FunnyImage\bin\Debug\resources.pri
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1229\FunnyImage1227\FunnyImage1208\FunnyImage\FunnyImage\bin\Debug\AppxManifest.xml
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1229\FunnyImage1227\FunnyImage1208\FunnyImage\FunnyImage\bin\Debug\FunnyImage.build.appxrecipe
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1229\FunnyImage1227\FunnyImage1208\FunnyImage\FunnyImage\bld\Debug\priconfig.xml.intermediate
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1229\FunnyImage1227\FunnyImage1208\FunnyImage\FunnyImage\bld\Debug\layout.resfiles.intermediate
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1229\FunnyImage1227\FunnyImage1208\FunnyImage\FunnyImage\bld\Debug\resources.resfiles.intermediate
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1229\FunnyImage1227\FunnyImage1208\FunnyImage\FunnyImage\bld\Debug\pri.resfiles.intermediate
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1229\FunnyImage1227\FunnyImage1208\FunnyImage\FunnyImage\bld\Debug\priconfig.xml
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1229\FunnyImage1227\FunnyImage1208\FunnyImage\FunnyImage\bld\Debug\layout.resfiles
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1229\FunnyImage1227\FunnyImage1208\FunnyImage\FunnyImage\bld\Debug\resources.resfiles
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1229\FunnyImage1227\FunnyImage1208\FunnyImage\FunnyImage\bld\Debug\pri.resfiles
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1229\FunnyImage1227\FunnyImage1208\FunnyImage\FunnyImage\bld\Debug\LanguageQualifiers.txt
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1229\FunnyImage1227\FunnyImage1208\FunnyImage\FunnyImage\bld\Debug\ProjectArchitectures.txt
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1229_v2\FunnyImage\FunnyImage\bin\Debug\resources.pri
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1229_v2\FunnyImage\FunnyImage\bin\Debug\AppxManifest.xml
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1229_v2\FunnyImage\FunnyImage\bin\Debug\FunnyImage.build.appxrecipe
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1229_v2\FunnyImage\FunnyImage\bld\Debug\priconfig.xml.intermediate
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1229_v2\FunnyImage\FunnyImage\bld\Debug\layout.resfiles.intermediate
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1229_v2\FunnyImage\FunnyImage\bld\Debug\resources.resfiles.intermediate
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1229_v2\FunnyImage\FunnyImage\bld\Debug\pri.resfiles.intermediate
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1229_v2\FunnyImage\FunnyImage\bld\Debug\priconfig.xml
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1229_v2\FunnyImage\FunnyImage\bld\Debug\layout.resfiles
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1229_v2\FunnyImage\FunnyImage\bld\Debug\resources.resfiles
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1229_v2\FunnyImage\FunnyImage\bld\Debug\pri.resfiles
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1229_v2\FunnyImage\FunnyImage\bld\Debug\LanguageQualifiers.txt
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1229_v2\FunnyImage\FunnyImage\bld\Debug\ProjectArchitectures.txt
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\bin\Debug\resources.pri
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\bin\Debug\AppxManifest.xml
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\bin\Debug\FunnyImage.build.appxrecipe
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\bld\Debug\priconfig.xml.intermediate
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\bld\Debug\layout.resfiles.intermediate
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\bld\Debug\resources.resfiles.intermediate
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\bld\Debug\pri.resfiles.intermediate
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\bld\Debug\priconfig.xml
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\bld\Debug\layout.resfiles
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\bld\Debug\resources.resfiles
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\bld\Debug\pri.resfiles
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\bld\Debug\LanguageQualifiers.txt
+C:\Users\v-dochen\Desktop\新增資料夾 (2)\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\bld\Debug\ProjectArchitectures.txt

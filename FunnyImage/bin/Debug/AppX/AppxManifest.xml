@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:build="http://schemas.microsoft.com/developer/appx/2012/build" IgnorableNamespaces="build">
+  <!--
+    這個套件資訊清單檔案由建置流程產生。
+
+    對這個檔案所做的變更將在重新產生檔案時遺失。若要更正這個檔案中的錯誤，請編輯來源 .appxmanifest 檔案。
+
+    如需有關套件資訊清單檔案的詳細資訊，請參閱 http://go.microsoft.com/fwlink/?LinkID=241727
+  -->
+  <Identity Name="e5e42b1d-2766-434a-a6a6-62fa4850b47a" Version="1.0.0.0" Publisher="CN=v-dochen" ProcessorArchitecture="neutral" />
+  <Properties>
+    <DisplayName>FunnyImage</DisplayName>
+    <PublisherDisplayName>v-dochen</PublisherDisplayName>
+    <Logo>images\storelogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="EN-US" />
+    <Resource Language="CH" />
+  </Resources>
+  <Applications>
+    <Application Id="App" StartPage="default.html">
+      <VisualElements DisplayName="FunnyImage" Logo="150x150.png" SmallLogo="images\smalllogo.png" Description="Capriccio" ForegroundText="light" BackgroundColor="#CC6666">
+        <DefaultTile ShowName="allLogos" WideLogo="310x150-2.png" />
+        <SplashScreen Image="完整620x300.png" />
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+    <DeviceCapability Name="proximity" />
+  </Capabilities>
+  <Dependencies>
+    <PackageDependency Name="Microsoft.WinJS.1.0" MinVersion="1.0.9200.20498" />
+  </Dependencies>
+  <build:Metadata>
+    <build:Item Name="VisualStudio" Version="11.0" />
+    <build:Item Name="OperatingSystem" Version="6.2.9200.16384 (win8_rtm.120725-1247)" />
+    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="11.0.50727.1" />
+    <build:Item Name="MakePri.exe" Version="6.2.9200.16384 (win8_rtm.120725-1247)" />
+  </build:Metadata>
+</Package>

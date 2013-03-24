@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HERMANHPW8A</Machine>
+    <WindowsUser>v-dochen</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>19A610294F0C305DD75217C8B629F0E26C853B8F20F55E31000310EB9656A2FD</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>e5e42b1d-2766-434a-a6a6-62fa4850b47a_1.0.0.0_neutral__dpp0hdagzd2x0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>e5e42b1d-2766-434a-a6a6-62fa4850b47a_dpp0hdagzd2x0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>e5e42b1d-2766-434a-a6a6-62fa4850b47a</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=v-dochen</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-12-29T15:36:14.169</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\1366x768-p1.png">
+      <PackagePath>1366x768-p1.png</PackagePath>
+      <Modified>2012-12-16T19:03:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\1366x768-p3.png">
+      <PackagePath>1366x768-p3.png</PackagePath>
+      <Modified>2012-12-16T19:12:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\150x150.png">
+      <PackagePath>150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-12-16T01:16:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\310x150-2.png">
+      <PackagePath>310x150-2.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-12-17T03:40:37.415</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\310x150.png">
+      <PackagePath>310x150.png</PackagePath>
+      <Modified>2012-12-16T01:35:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\capriccio-4.png">
+      <PackagePath>capriccio-4.png</PackagePath>
+      <Modified>2012-12-14T11:20:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\icon150x150.png">
+      <PackagePath>icon150x150.png</PackagePath>
+      <Modified>2012-12-14T11:48:11.949</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\images\bj\bj.png">
+      <PackagePath>images\bj\bj.png</PackagePath>
+      <Modified>2012-12-29T15:35:44.084</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\images\bj\bj1.png">
+      <PackagePath>images\bj\bj1.png</PackagePath>
+      <Modified>2012-12-29T14:31:16.917</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\images\bj\bj3.png">
+      <PackagePath>images\bj\bj3.png</PackagePath>
+      <Modified>2012-12-29T14:33:48.969</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\images\ch\ch10.png">
+      <PackagePath>images\ch\ch10.png</PackagePath>
+      <Modified>2012-12-29T14:56:49.601</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\images\ch\ch12.png">
+      <PackagePath>images\ch\ch12.png</PackagePath>
+      <Modified>2012-12-29T15:06:08.145</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\images\ch\ch13.png">
+      <PackagePath>images\ch\ch13.png</PackagePath>
+      <Modified>2012-12-29T15:08:44.560</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\images\ch\ch14.png">
+      <PackagePath>images\ch\ch14.png</PackagePath>
+      <Modified>2012-12-29T15:13:14.135</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\images\ch\ch15.png">
+      <PackagePath>images\ch\ch15.png</PackagePath>
+      <Modified>2012-12-29T15:08:12.746</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\images\ch\ch4.png">
+      <PackagePath>images\ch\ch4.png</PackagePath>
+      <Modified>2012-12-15T07:02:36.548</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\images\ch\ch5.png">
+      <PackagePath>images\ch\ch5.png</PackagePath>
+      <Modified>2012-12-15T07:03:37.618</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\images\ch\ch6.png">
+      <PackagePath>images\ch\ch6.png</PackagePath>
+      <Modified>2012-12-15T07:11:02.762</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\images\ch\ch9.png">
+      <PackagePath>images\ch\ch9.png</PackagePath>
+      <Modified>2012-12-29T14:56:07.667</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\images\icon150x150.png">
+      <PackagePath>images\icon150x150.png</PackagePath>
+      <Modified>2012-12-14T11:17:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <Modified>2012-09-18T12:52:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-18T12:52:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <Modified>2012-09-18T12:52:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-18T12:52:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\images\s\s1.png">
+      <PackagePath>images\s\s1.png</PackagePath>
+      <Modified>2012-12-27T16:58:04.537</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\images\s\s2.png">
+      <PackagePath>images\s\s2.png</PackagePath>
+      <Modified>2012-12-27T16:58:52.970</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\images\s\ss.png">
+      <PackagePath>images\s\ss.png</PackagePath>
+      <Modified>2012-12-27T17:11:45.615</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\images\t\t2.png">
+      <PackagePath>images\t\t2.png</PackagePath>
+      <Modified>2012-12-27T16:43:58.367</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\images\t\t3.png">
+      <PackagePath>images\t\t3.png</PackagePath>
+      <Modified>2012-12-27T16:44:38.246</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\images\t\t4.png">
+      <PackagePath>images\t\t4.png</PackagePath>
+      <Modified>2012-12-27T16:45:14.740</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\star.png">
+      <PackagePath>star.png</PackagePath>
+      <Modified>2012-12-16T17:49:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\完整620x300.png">
+      <PackagePath>完整620x300.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-12-17T01:56:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\1366x768-p2.jpg">
+      <PackagePath>1366x768-p2.jpg</PackagePath>
+      <Modified>2012-12-27T05:05:40.764</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\768x1366-1.jpg">
+      <PackagePath>768x1366-1.jpg</PackagePath>
+      <Modified>2012-12-27T09:03:50.730</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\images\bj\bj.jpg">
+      <PackagePath>images\bj\bj.jpg</PackagePath>
+      <Modified>2012-12-29T15:28:06.082</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\images\ch\ch.jpg">
+      <PackagePath>images\ch\ch.jpg</PackagePath>
+      <Modified>2012-12-14T13:58:46.400</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\images\ch\ch1.jpg">
+      <PackagePath>images\ch\ch1.jpg</PackagePath>
+      <Modified>2012-12-15T07:28:26.079</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\images\ch\ch16.jpg">
+      <PackagePath>images\ch\ch16.jpg</PackagePath>
+      <Modified>2012-12-14T13:55:27.970</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\images\ch\ch2.jpg">
+      <PackagePath>images\ch\ch2.jpg</PackagePath>
+      <Modified>2012-12-15T07:26:10.058</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\images\ch\ch3.jpg">
+      <PackagePath>images\ch\ch3.jpg</PackagePath>
+      <Modified>2012-12-15T07:31:48.236</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\images\ch\ch7.jpg">
+      <PackagePath>images\ch\ch7.jpg</PackagePath>
+      <Modified>2012-12-15T07:32:52.474</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\images\ch\ch8.jpg">
+      <PackagePath>images\ch\ch8.jpg</PackagePath>
+      <Modified>2012-12-15T07:34:39.400</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\images\NoWayBack\NoWayBack.jpg">
+      <PackagePath>images\NoWayBack\NoWayBack.jpg</PackagePath>
+      <Modified>2012-12-29T15:19:55.272</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\images\NoWayBack\NoWayBack1.jpg">
+      <PackagePath>images\NoWayBack\NoWayBack1.jpg</PackagePath>
+      <Modified>2012-10-26T03:44:00.432</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\images\NoWayBack\NoWayBack2.jpg">
+      <PackagePath>images\NoWayBack\NoWayBack2.jpg</PackagePath>
+      <Modified>2012-10-26T03:36:08.405</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\images\NoWayBack\NoWayBack3.jpg">
+      <PackagePath>images\NoWayBack\NoWayBack3.jpg</PackagePath>
+      <Modified>2012-10-26T03:38:19.539</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\images\pi\pi.jpg">
+      <PackagePath>images\pi\pi.jpg</PackagePath>
+      <Modified>2012-12-12T06:00:21.807</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\images\pi\pi_1.jpg">
+      <PackagePath>images\pi\pi_1.jpg</PackagePath>
+      <Modified>2012-12-12T05:32:56.112</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\images\pi\pi_2.jpg">
+      <PackagePath>images\pi\pi_2.jpg</PackagePath>
+      <Modified>2012-12-12T05:33:31.224</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\images\pi\pi_3.jpg">
+      <PackagePath>images\pi\pi_3.jpg</PackagePath>
+      <Modified>2012-12-12T05:36:36.541</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\images\s\s3.jpg">
+      <PackagePath>images\s\s3.jpg</PackagePath>
+      <Modified>2012-12-27T16:59:49.183</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\images\t\tt.jpg">
+      <PackagePath>images\t\tt.jpg</PackagePath>
+      <Modified>2012-12-27T17:15:48.769</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2012-12-20T13:42:55.289</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\pages\imageview\imageview.css">
+      <PackagePath>pages\imageview\imageview.css</PackagePath>
+      <Modified>2012-12-29T10:17:43.333</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\pages\items\items.css">
+      <PackagePath>pages\items\items.css</PackagePath>
+      <Modified>2012-12-27T09:06:27.311</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\pages\preview\preview.css">
+      <PackagePath>pages\preview\preview.css</PackagePath>
+      <Modified>2012-12-29T01:34:03.183</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\pages\split\split.css">
+      <PackagePath>pages\split\split.css</PackagePath>
+      <Modified>2012-12-27T10:20:41.494</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\js\data.js">
+      <PackagePath>js\data.js</PackagePath>
+      <Modified>2012-12-29T16:37:58.992</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2012-11-19T12:12:04.621</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\js\helper.js">
+      <PackagePath>js\helper.js</PackagePath>
+      <Modified>2012-12-17T08:48:42.192</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\js\logic.js">
+      <PackagePath>js\logic.js</PackagePath>
+      <Modified>2013-01-22T07:59:30.577</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2012-11-19T12:12:05.073</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\pages\imageview\imageview.js">
+      <PackagePath>pages\imageview\imageview.js</PackagePath>
+      <Modified>2012-12-29T15:49:21.042</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\pages\items\items.js">
+      <PackagePath>pages\items\items.js</PackagePath>
+      <Modified>2012-12-29T15:55:12.668</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\pages\preview\preview.js">
+      <PackagePath>pages\preview\preview.js</PackagePath>
+      <Modified>2012-12-29T09:38:15.896</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\pages\split\split.js">
+      <PackagePath>pages\split\split.js</PackagePath>
+      <Modified>2013-01-22T06:45:47.170</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\pages\imageview\imageview.html">
+      <PackagePath>pages\imageview\imageview.html</PackagePath>
+      <Modified>2012-12-29T10:10:58.519</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\pages\items\items.html">
+      <PackagePath>pages\items\items.html</PackagePath>
+      <Modified>2012-12-14T12:18:35.086</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\pages\preview\preview.html">
+      <PackagePath>pages\preview\preview.html</PackagePath>
+      <Modified>2012-12-29T05:33:56.274</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\pages\split\split.html">
+      <PackagePath>pages\split\split.html</PackagePath>
+      <Modified>2012-12-29T03:38:35.482</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2012-12-14T12:11:23.355</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-dochen\Desktop\新增資料夾 %282%29\FunnyImage1230_v1\FunnyImage1229_v2\FunnyImage\FunnyImage\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-12-29T15:36:14.095</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20512</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20512</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

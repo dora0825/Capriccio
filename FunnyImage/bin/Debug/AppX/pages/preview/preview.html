@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8" />
+    <title>preview</title>
+
+    <!-- WinJS 參考 -->
+    <link href="//Microsoft.WinJS.1.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+
+    <link href="preview.css" rel="stylesheet" />
+    
+    <script src="/js/data.js"></script>
+    <script src="/js/logic.js"></script>
+    <script src="preview.js"></script>
+</head>
+<body>
+    <div class="preview fragment" style="background-image:url('/1366x768-p3.png')">
+        <header aria-label="Header content" role="banner">
+            <button class="win-backbutton" aria-label="Back" disabled type="button"></button>
+            <h1 class="titlearea win-type-ellipsis">
+                <span class="pagetitle">預覽畫面</span>
+            </h1>
+        </header>
+        <section aria-label="Main content" role="main" style="text-align:center;">
+            
+            <canvas id="previewcan" style="text-align:center; vertical-align:middle; border:5px solid;border-color:black;" ></canvas>
+
+        </section>
+         <div id="img_info_div" style="visibility:hidden">
+                <div>
+                <p>Data Package Title:</p>
+                <input class="text-box" id="titleInputBox" value="My image" />
+                <p>Data Package Description:</p>
+                <input class="text-box" id="descriptionInputBox" value="Selected image from the Share Source sample" />
+                </div>
+                <div style="margin-top:30px;">
+                
+                <button id="shareButton">Share</button>
+                </div>
+        </div>
+    <!-- Create AppBar -->
+    <!-- BEGINTEMPLATE: Template code for an AppBar -->
+        <div id="verticalAppBar" data-win-control="WinJS.UI.AppBar" data-win-options="">
+            <button data-win-control="WinJS.UI.AppBarCommand" data-win-options="{id:'cmdSave',label:'儲存',icon:'save',section:'selection'}">
+            </button>
+        </div>
+    <!-- ENDTEMPLATE -->
+    </div>
+</body>
+</html>

@@ -1,0 +1,9 @@
+﻿#basicListView.win-listview 
+{
+    height: 650px; 
+    width: auto;
+    
+}
+#basicListView.win-listview .win-container {
+    margin: 10px; 
+}

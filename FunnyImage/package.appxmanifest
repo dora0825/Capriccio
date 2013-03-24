@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="e5e42b1d-2766-434a-a6a6-62fa4850b47a" Version="1.0.0.0" Publisher="CN=v-dochen" />
+  <Properties>
+    <DisplayName>FunnyImage</DisplayName>
+    <PublisherDisplayName>v-dochen</PublisherDisplayName>
+    <Logo>images\storelogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" StartPage="default.html">
+      <VisualElements DisplayName="FunnyImage" Logo="150x150.png" SmallLogo="images\smalllogo.png" Description="Capriccio" ForegroundText="light" BackgroundColor="#CC6666">
+        <DefaultTile ShowName="allLogos" WideLogo="310x150-2.png" />
+        <SplashScreen Image="完整620x300.png" />
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+    <DeviceCapability Name="proximity" />
+  </Capabilities>
+</Package>
